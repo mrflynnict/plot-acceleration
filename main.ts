@@ -1,3 +1,4 @@
+basic.showString("Hello!")
 basic.forever(function () {
     led.plotBarGraph(
     input.acceleration(Dimension.X),
